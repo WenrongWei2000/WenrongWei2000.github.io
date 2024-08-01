@@ -13,27 +13,12 @@ Here is Wenrong Wei (魏文荣).
 I am currently pursuing a master’s degree with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, advised by [Prof. Shihong Miao](http://faculty.hust.edu.cn/miaoshihong/zh_CN/index.htm).During my master's studies, I participated in two research projects and published two papers.
 Here is my Resume: [CV_WenrongWei](../assets/CV0801.pdf)
 
-
-
 Now, I am looking for a PhD position in power system optimization. If you are interested in any aspect of me and my work, I would love to chat and collaborate, please email me at [here](weiwenrong@hust.edu.cn).
 
 
 
 
-
-
-
-
-
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-As a highly self-motivated student majoring in electrical engineering, I possess strong mathematical abilities and programming skills. I have a keen interest in solve practical engineering problems, such as power system optimization, system modeling, and electrical market.
-While pursuing my M.S. degree, I have published two peer-reviewed papers (first or student-first author) and completed two academic projects.
-
-
-
-A data-driven personal website
+Academic Background
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
