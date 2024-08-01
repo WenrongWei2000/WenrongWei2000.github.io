@@ -10,7 +10,7 @@ redirect_from:
 
 Here is Wenrong Wei (魏文荣).
 
-I am currently pursuing a master’s degree with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, advised by [Prof. Shihong Miao](http://faculty.hust.edu.cn/miaoshihong/zh_CN/index.htm).During my master's studies, I participated in two research projects and published two papers.
+I am currently pursuing a master’s degree with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, advised by [Prof. Shihong Miao](http://faculty.hust.edu.cn/miaoshihong/zh_CN/index.htm).During my master's studies, I participated in two research projects and published two [papers](https://wenrongwei2000.github.io/publications).
 Here is my Resume: [CV_WenrongWei](../assets/CV0801.pdf)
 
 Now, I am looking for a PhD position in power system optimization. If you are interested in any aspect of me and my work, I would love to chat and collaborate, please email me at [here](weiwenrong@hust.edu.cn).
@@ -33,15 +33,7 @@ Academic Background
 Publications
 ======
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access 2023</div><img src='../images/paper1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Generative Adversarial Inverse Reinforcement Learning With Deep Deterministic Policy Gradient](https://ieeexplore.ieee.org/document/10217826)
-
-**Ming Zhan**, Jingjing Fan, Jianying Guo
-
-[**Project**](https://ieeexplore.ieee.org/document/10217826) | <strong>SCI Journal Paper</strong>
-- IEEE Access, vol. 11, pp. 87732-87746, 2023, doi: 10.1109/ACCESS.2023.3305453.
 
 
 
