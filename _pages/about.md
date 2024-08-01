@@ -21,10 +21,12 @@ Now, I am looking for a PhD position in power system optimization. If you are in
 Academic Background
 ======
 
-- **2022.09 - 2025.06**, Huazhong University of Science and Technology (M.S.)
-  - Supervised by [Dr. Jingjing Fan](https://lwss.ncut.edu.cn/TutorServlet?action=queryDs&teacherid=qq2scN_gHl_@_byvOok@JA==)
-- **2018.09 - 2022.06**, North China Electric Power University(M.S.)
-  - Supervised by [Prof. Yanchun Liang](https://ccst.jlu.edu.cn/info/1196/17215.htm)
+- **2022.09 - 2025.06**, Huazhong University of Science and Technology (M.S. in electrical engineering)
+  - GPA: 3.97/4 (TOP 25%)
+  - QS: 300
+  - Courses: Power System Configuration and Reliability Analysis(90), The Automatical Syetem for Electric Power System(92), Advanced Engineering Electric Mathematics(91)
+- **2018.09 - 2022.06**, North China Electric Power University(B.S. in electrical engineering)
+  - GPA: 91.82/100 (TOP 2%)
 
 
 -**Sep 2022 - June 2025**: Huazhong University of Science and Technology (M.S. without exams)  
