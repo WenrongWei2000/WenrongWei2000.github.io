@@ -15,7 +15,7 @@ Here is my Resume: [CV_WenrongWei](../assets/CV0801.pdf)
 
 
 
-Now, I am looking for a PhD position in power system optimization. If you are interested in any aspect of me and my work, I would love to chat and collaborate, please email me at [weiwenrong@hust.edu.cn](weiwenrong@hust.edu.cn).
+Now, I am looking for a PhD position in power system optimization. If you are interested in any aspect of me and my work, I would love to chat and collaborate, please email me at [here](weiwenrong@hust.edu.cn).
 
 
 
