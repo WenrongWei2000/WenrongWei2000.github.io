@@ -10,6 +10,17 @@ redirect_from:
 As a highly self-motivated student majoring in electrical engineering, I possess strong mathematical abilities and programming skills. I have a keen interest in solve practical engineering problems, such as power system optimization, system modeling, and electrical market.
 While pursuing my M.S. degree, I have published two peer-reviewed papers (first or student-first author) and completed two academic projects.
 
+Here is Wenrong Wei (魏文荣).
+
+I am currently pursuing a master’s degree with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, advised by [Prof. Shihong Miao](http://faculty.hust.edu.cn/miaoshihong/zh_CN/index.htm). I received my B.S. degree from the College of Engineering and Technology, Southwest University, advised by Prof. Zhongyong Zhao. Here is my Resume (Last updated: March 2024).
+
+Now, I am looking for a PhD position in deep learning application in the power system in HK or Singapore. If you are interested in any aspect of me and my work, I would love to chat and collaborate, please email me at yu_chen2000@hust.edu.cn or chen1034429543 (WeChat).
+
+
+
+
+
+
 You can find my CV here: [CV_WenrongWei](../assets/CV0801.pdf)
 
 
