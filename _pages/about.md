@@ -21,6 +21,10 @@ Now, I am looking for a PhD position in power system optimization. If you are in
 Academic Background
 ======
 
+# 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 -**Sep 2022 - June 2025**: Huazhong University of Science and Technology (M.S. without exams)  
   Major in electrical engineering at the School of Electrical and Electronic Engineering  
   Main courses: Advanced Engineering Electromagnetic Fields (94), Fundamentals of Accelerator Physics (94), Applying Superconducting Technology (95), etc.
