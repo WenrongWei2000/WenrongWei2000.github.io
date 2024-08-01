@@ -10,7 +10,7 @@ redirect_from:
 As a highly self-motivated student majoring in electrical engineering, I possess strong mathematical abilities and programming skills. I have a keen interest in solve practical engineering problems, such as power system optimization, system modeling, and electrical market.
 While pursuing my M.S. degree, I have published two peer-reviewed papers (first or student-first author) and completed two academic projects.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/CV0801.pdf)
+You can find my CV here: [CV_WenrongWei](../assets/CV0801.pdf)
 
 
 
