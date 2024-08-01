@@ -24,14 +24,11 @@ Academic Background
 - **2022.09 - 2025.06**, Huazhong University of Science and Technology (M.S. in electrical engineering)
   - GPA: 3.97/4 (TOP 25%)
   - QS: 300
-  - Courses: Power System Configuration and Reliability Analysis(90), The Automatical Syetem for Electric Power System(92), Advanced Engineering Electric Mathematics(91)
+  - Courses: Power System Configuration and Reliability Analysis(90), Advanced Engineering Electric Mathematics(91), etc.
 - **2018.09 - 2022.06**, North China Electric Power University(B.S. in electrical engineering)
   - GPA: 91.82/100 (TOP 2%)
+  - Courses: Steady State Analysis of Power System(90), Transient Analysis of Power System(97), etc.
 
-
--**Sep 2022 - June 2025**: Huazhong University of Science and Technology (M.S. without exams)  
-  Major in electrical engineering at the School of Electrical and Electronic Engineering  
-  Main courses: Advanced Engineering Electromagnetic Fields (94), Fundamentals of Accelerator Physics (94), Applying Superconducting Technology (95), etc.
 
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
