@@ -1,9 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "Multi-Time Scale Market Participation Strategy of Wind-Energy Storage Combined System Considering Uncertainty"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+date: 2023-05-28
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
