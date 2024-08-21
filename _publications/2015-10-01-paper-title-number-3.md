@@ -15,7 +15,7 @@ The significant uncertainty of wind power output severely hinders the accurate e
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge">Flowchart of multi-time scale bidding strategy</div>
-      <img src='../images/多时间尺度投标1.png' alt="sym" width="100%" style="display: block; margin: 0 auto;">
+      <img src='../images/多时间尺度3.png' alt="sym" width="100%" style="display: block; margin: 0 auto;">
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
