@@ -11,5 +11,15 @@ citation: 'Xin Sun, Wenrong Wei*, et al. (2023). &quot;Paper Title Number 3.&quo
 ---
 
 The significant uncertainty of wind power output severely hinders the accurate execution of electric market reporting plans, and the resulting power deviations may lead wind farms equipped with storage systems to incur high deviation penalties and wind curtailment losses. To mitigate the economic losses caused by incorrect bidding decisions, a multi-time scale market bidding model for wind farms is developed. Based on the existing market mechanisms in the United States, benefit and cost models for wind farms participating in the energy market and frequency regulation market are established. To improve the accuracy of bidding strategies, a quantitative model for wind power output uncertainty is developed using the Copula function, reserving part of the storage output capacity to reduce economic risks caused by power deviations. Aiming to maximize the expected net income of wind farms, day-ahead bidding strategies for the energy market and frequency regulation market are formulated, with bidding decisions adjusted based on ultra-short-term wind power forecast data in the intra-day stage. A multi-time scale market participation strategy for wind farms is proposed, considering the uncertainty of wind power output. Using a real-world wind farm in China as a case study, the results demonstrate that the proposed strategy can effectively enhance the economic benefits of wind farms while avoiding resource waste.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flowchart of multi-time scale bidding strategy</div><img src='../images/多时间尺度投标.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flowchart of multi-time scale bidding strategy</div><img src='../images/多时间尺度投标1.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flowchart of multi-time scale bidding strategy</div><img src='../images/多时间尺度投标2.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">Flowchart of multi-time scale bidding strategy</div>
+      <img src='../images/多时间尺度投标1.png' alt="sym" width="50%" style="display: block; margin: 0 auto;">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
