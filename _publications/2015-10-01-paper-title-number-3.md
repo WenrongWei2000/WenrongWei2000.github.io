@@ -16,7 +16,7 @@ citation: 'Xin Sun, Wenrong Wei*, et al. (2023). &quot;Paper Title Number 3.&quo
   <div class='paper-box-image'>
     <div><div class="badge">Flowchart of multi-time scale bidding strategy</div>
       <img src='../images/多时间尺度3.png' alt="sym" width="100%" style="display: block; margin: 0 auto;">
-       <p>Flowchart of multi-time scale bidding strategy</p>
+       <p style="text-align: center;">Flowchart of multi-time scale bidding strategy</p>
     </div>
   </div>
 <div class='paper-box-text' markdown="1">
