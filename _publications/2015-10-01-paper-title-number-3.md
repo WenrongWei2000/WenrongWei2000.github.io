@@ -16,6 +16,14 @@ citation: 'Xin Sun, Wenrong Wei*, et al. (2023). &quot;Paper Title Number 3.&quo
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <img src='../images/流程图.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
+    <p style="text-align: center;">Interval prediction results based on day-ahead wind power forecast data</p>
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <img src='../images/日前Copula.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
     <p style="text-align: center;">Interval prediction results based on day-ahead wind power forecast data</p>
   </div>
