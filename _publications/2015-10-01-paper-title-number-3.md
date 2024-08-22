@@ -14,14 +14,15 @@ citation: 'Xin Sun, Wenrong Wei*, et al. (2023). &quot;Paper Title Number 3.&quo
 
 **Key Step 1: Model the uncertainty of wind power output with Copula Functions**
 
+Based on the Copula function, we developed a wind power uncertainty model. The specific steps are as follows:
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='../images/流程图.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
-    <p style="text-align: center;">Interval prediction results based on day-ahead wind power forecast data</p>
+    <img src='../images/流程图.png' alt="sym" width="100%" style="display: block; margin: 0 auto;">
+    <p style="text-align: center;">The formulation process of the wind power uncertainty model</p>
   </div>
 </div>
 <div class='paper-box-text' markdown="1">
-
+The prediction accuracy of the static Copula function is relatively low, but it can obtain the wind power uncertainty interval for all time periods of the next day in one step. The dynamic Copula function offers higher prediction accuracy, but it can only model the wind power uncertainty for period l+1 based on the actual wind power output of period l, making it impossible to determine the uncertainty intervals for the remaining periods. Therefore, this paper uses the static Gaussian Copula function combined with day-ahead wind power forecast data for the day-ahead bidding strategy, while employing the dynamic Copula function together with ultra-short-term wind power forecast data for the intraday bidding strategy.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='../images/日前Copula.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
