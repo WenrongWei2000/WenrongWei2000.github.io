@@ -41,6 +41,9 @@ The prediction accuracy of the static Copula function is relatively low, but it 
 
 
 **Key Step 2: Establish market bidding model for wind farm equipped with Storage**
+Referring to the PJM market rules in the United States, we developed a revenue and cost model for wind farm (equipped with energy storage). The specific functions are provided in Equations (1) to (6) in this paper. 
+Additionally, the time framework for market bidding is illustrated in the figure below.
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='../images/能量市场.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
