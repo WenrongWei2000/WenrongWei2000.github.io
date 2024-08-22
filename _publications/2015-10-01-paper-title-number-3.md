@@ -22,7 +22,7 @@ Based on the Copula function, we developed a wind power uncertainty model. The s
   </div>
 </div>
 <div class='paper-box-text' markdown="1">
-The prediction accuracy of the static Copula function is relatively low, but it can obtain the wind power uncertainty interval for all time periods of the next day in one step. The dynamic Copula function offers higher prediction accuracy, but it can only model the wind power uncertainty for period l+1 based on the actual wind power output of period l, making it impossible to determine the uncertainty intervals for the remaining periods. Therefore, this paper uses the static Gaussian Copula function combined with day-ahead wind power forecast data for the day-ahead bidding strategy, while employing the dynamic Copula function together with ultra-short-term wind power forecast data for the intraday bidding strategy.
+The prediction accuracy of the static Copula function is relatively low, but it can obtain the wind power uncertainty interval for all time periods of the next day in one step. The dynamic Copula function offers higher prediction accuracy, but it can only model the wind power uncertainty for period *l+1* based on the actual wind power output of period *l*, making it impossible to determine the uncertainty intervals for the remaining periods. Therefore, this paper uses the static Gaussian Copula function combined with day-ahead wind power forecast data for the day-ahead bidding strategy, while employing the dynamic Copula function together with ultra-short-term wind power forecast data for the intraday bidding strategy.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='../images/日前Copula.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
@@ -40,9 +40,24 @@ The prediction accuracy of the static Copula function is relatively low, but it 
 <div class='paper-box-text' markdown="1">
 
 
+**Key Step 2: Establish market bidding model for wind farm equipped with Storage**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='../images/能量市场.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
+    <p style="text-align: center;">Time frame of day-ahead energy market</p>
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
 
-
-
+  <div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='../images/调频市场.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
+    <p style="text-align: center;">Time frame of frequency regulation market</p>
+  </div>
+</div>
+<div class='paper-box-text' markdown="1">
+  
+**Key Step 3: Multi-time scale market participation strategy**
 
 <div class='paper-box'>
   <div class='paper-box-image'>
