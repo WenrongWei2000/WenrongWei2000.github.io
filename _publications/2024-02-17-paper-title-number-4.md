@@ -13,7 +13,7 @@ citation: 'Wenrong Wei, Shihong MIAO, et al. (2024). &quot;Paper Title Number 3.
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='../images/双层模型.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
+    <img src='../images/双层模型.png' alt="sym" width="100%" style="display: block; margin: 0 auto;">
     <p style="text-align: center;">Block diagram of two-layer distribution modal</p>
   </div>
 </div>
