@@ -2,7 +2,7 @@
 title: "Multi-Time Scale Market Participation Strategy of Wind-Energy Storage Combined System Considering Uncertainty"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This is an EI-indexed Chinese journal where I am both the student-first and corresponding author (in projects funded by the China State Grid Corporation, the first author of the paper is usually an employee of the company).I have translated the core content of the paper into English, and you can view it by clicking the link above.'
+excerpt: 'This is an EI-indexed Chinese journal where I am both the student-first and corresponding author (in projects funded by the China State Grid Corporation, the first author of the paper is usually an employee of the company). I have translated the core content of the paper into English, and you can view it by clicking the link above.'
 date: 2023-05-28
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
