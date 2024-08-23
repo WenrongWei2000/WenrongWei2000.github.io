@@ -22,7 +22,7 @@ Academic Background
 ======
 
 - **2022.09 - 2025.06**, Huazhong University of Science and Technology (M.S. in electrical engineering)
-  - GPA: 3.97/4 (TOP 25%)
+  - GPA: 91.64/100 (TOP 25%)
   - University Rankings: QS: 275, US News: 100, Times: 158
   - Courses: Power System Configuration and Reliability Analysis(90), Advanced Engineering Electric Mathematics(91), etc.
 - **2018.09 - 2022.06**, North China Electric Power University(B.S. in electrical engineering)
