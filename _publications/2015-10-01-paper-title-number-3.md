@@ -10,7 +10,7 @@ paperurl: 'http://academicpages.github.io/files/Multi-Time Scale Market Particip
 citation: 'Xin Sun, Wenrong Wei*, et al. (2023). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-**ABSTRACT**:The significant uncertainty of wind power output severely hinders the accurate execution of electric market reporting plans, and the resulting power deviations may lead wind farms equipped with storage systems to incur high deviation penalties and wind curtailment losses. To mitigate the economic losses caused by incorrect bidding decisions, a multi-time scale market bidding model for wind farms is developed. Based on the existing market mechanisms in the United States, benefit and cost models for wind farms participating in the energy market and frequency regulation market are established. To improve the accuracy of bidding strategies, a quantitative model for wind power output uncertainty is developed using the Copula function, reserving part of the storage output capacity to reduce economic risks caused by power deviations. Aiming to maximize the expected net income of wind farms, day-ahead bidding strategies for the energy market and frequency regulation market are formulated, with bidding decisions adjusted based on ultra-short-term wind power forecast data in the intra-day stage. <u>A multi-time scale market participation strategy for wind farms equipped with energy storage is proposed, considering the uncertainty of wind power output.</u> Using a real-world wind farm in China as a case study, the results demonstrate that the proposed strategy can effectively enhance the economic benefits of wind farms while avoiding resource waste.
+**ABSTRACT**:The significant uncertainty of wind power output severely hinders the accurate execution of electric market reporting plans, and the resulting power deviations may lead wind farms equipped with storage systems to incur high deviation penalties and wind curtailment losses. To mitigate the economic losses caused by incorrect bidding decisions, a multi-time scale market bidding model for wind farms is developed. Based on the existing market mechanisms in the United States, benefit and cost models for wind farms participating in the energy market and frequency regulation market are established. To improve the accuracy of bidding strategies, a quantitative model for wind power output uncertainty is developed using the Copula function, reserving part of the storage output capacity to reduce economic risks caused by power deviations. Aiming to maximize the expected net income of wind farms, day-ahead bidding strategies for the energy market and frequency regulation market are formulated, with bidding decisions adjusted based on ultra-short-term wind power forecast data in the intra-day stage. <u>A multi-time scale market participation strategy for wind farm equipped with energy storage is proposed, considering the uncertainty of wind power output.</u> Using a real-world wind farm in China as a case study, the results demonstrate that the proposed strategy can effectively enhance the economic benefits of wind farms while avoiding resource waste.
 
 **Key Step 1: Model the uncertainty of wind power output with Copula Functions**
 
@@ -39,14 +39,16 @@ The prediction accuracy of the static Copula function is relatively low, but it 
 </div>
 <div class='paper-box-text' markdown="1">
 
-Then, we determine the reserved output in **Key Step 3** based on the interval prediction results we obtained.
+Then, in **Key Step 3**, we determine the reserved power of energy storage  based on the interval prediction results we obtained.
 
 **Key Step 2: Establish market bidding model for wind farm equipped with Storage**
 
 
-Referring to the PJM market rules in the United States, we developed a revenue and cost model for wind farm (equipped with energy storage). The specific functions are provided in Equations (1) to (6) in this paper. 
+Referring to the PJM market rules in the United States, we developed a benefit and cost model for wind farm (equipped with energy storage). The specific functions are presented in Equations (1) to (6) in this paper. 
 
-Additionally, the time framework for market bidding is illustrated in the figure below.
+Subsequently, we developed the bidding model based on the benefit and cost analysis. The relevant functions are presented in Equations (7) to (21) in this paper.
+
+Additionally, the time framework for market bidding is illustrated in the figure below. By combining the time framework with the bidding model, a multi-time scale market participation strategy for wind farm equipped with energy storage is proposed in **Key Step 3**.
 
 <div class='paper-box'>
   <div class='paper-box-image'>
