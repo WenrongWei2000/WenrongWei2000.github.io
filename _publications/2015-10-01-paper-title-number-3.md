@@ -67,6 +67,7 @@ Additionally, the time framework for market bidding is illustrated in the figure
 <div class='paper-box-text' markdown="1">
   
 **Key Step 3: Multi-time scale market participation strategy**
+
 Wind power exhibits significant uncertainty, and the accuracy of its point forecasts (including interval prediction results) gradually improves over time. In view of this, we have developed a multi-time-scale market participation strategy for wind farm (equipped with energy storage), tailored to different markets and their respective clearing time windows.
 
 n the day-ahead stage, we formulated a day-ahead bidding strategy and determined the bidding power for the energy market.
