@@ -14,7 +14,7 @@ citation: 'Xin Sun, Wenrong Wei*, et al. (2023). &quot;Paper Title Number 3.&quo
 
 **Key Step 1: Model the uncertainty of wind power output with Copula Functions**
 
-Based on the Copula function, we developed a wind power uncertainty model. The specific steps are as follows:
+Based on the Copula function, we developed an uncertainty model to obtain the confidence interval of wind power. The specific steps are as follows:
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='../images/流程图.png' alt="sym" width="100%" style="display: block; margin: 0 auto;">
@@ -22,7 +22,7 @@ Based on the Copula function, we developed a wind power uncertainty model. The s
   </div>
 </div>
 <div class='paper-box-text' markdown="1">
-The prediction accuracy of the static Copula function is relatively low, but it can obtain the wind power uncertainty interval for all time periods of the next day in one step. The dynamic Copula function offers higher prediction accuracy, but it can only model the wind power uncertainty for period *l+1* based on the actual wind power output of period *l*, making it impossible to determine the uncertainty intervals for the remaining periods. Therefore, this paper uses the static Gaussian Copula function combined with day-ahead wind power forecast data for the day-ahead bidding strategy, while employing the dynamic Copula function together with ultra-short-term wind power forecast data for the intraday bidding strategy.
+The prediction accuracy of the static Copula function is relatively low, but it can obtain the confidence intervals of wind power for all time periods of the next day in one step. The dynamic Copula function offers higher prediction accuracy, but it can only model the wind power uncertainty for period l+1 based on the actual wind power output of period l, making it impossible to determine the confidence intervals for the remaining periods. Therefore, in our work, the static Gaussian Copula function, combined with day-ahead wind power forecast data, is used for the day-ahead bidding strategy, while the dynamic Copula function, together with ultra-short-term wind power forecast data, is employed for the intraday bidding strategy.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <img src='../images/日前Copula.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
@@ -39,11 +39,13 @@ The prediction accuracy of the static Copula function is relatively low, but it 
 </div>
 <div class='paper-box-text' markdown="1">
 
+Then, we determine the reserved output in **Key Step 3** based on the interval prediction results we obtained.
 
 **Key Step 2: Establish market bidding model for wind farm equipped with Storage**
 
 
 Referring to the PJM market rules in the United States, we developed a revenue and cost model for wind farm (equipped with energy storage). The specific functions are provided in Equations (1) to (6) in this paper. 
+
 Additionally, the time framework for market bidding is illustrated in the figure below.
 
 <div class='paper-box'>
