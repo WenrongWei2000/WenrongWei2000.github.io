@@ -30,23 +30,9 @@ Academic Background
   - Courses: Steady State Analysis of Power System(90), Transient Analysis of Power System(97), etc.
 
 
-Publications
-======
-
-
-
-
-
-Projects
-======
-
-
-
 
 Research Interests
 ======
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+As a highly self-motivated student majoring in electrical engineering, I possess strong mathematical abilities and programming skills. I have a keen interest in solve practical engineering problems, such as optimal operation of power system, electrical market, system modeling, and Reinforcement Learning
