@@ -6,7 +6,7 @@ excerpt: 'This is an EI-indexed Chinese journal where I am both the student-firs
 date: 2023-05-28
 venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/Multi-time.pdf'
+paperurl: 'http://WenrongWei2000.github.io/files/Multi-time.pdf'
 citation: 'Xin Sun, Wenrong Wei*, et al. &quot;Multi-Time Scale Market Participation Strategy of Wind-Energy Storage Combined System Considering Uncertainty.&quot; <i>Electric Power Automation Equipment</i>. 2024.'
 ---
 
