@@ -2,7 +2,7 @@
 title: "Optimal Distribution Method for Frequency Regulation Commands Considering the State of Charge Recovery and Adjustment"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This paper was published in an EI-indexed journal, which has the greatest influence in the field of China's power industry, where I am the first author.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
