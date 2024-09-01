@@ -70,7 +70,7 @@ Additionally, the time framework for market bidding is illustrated in the figure
 
 Wind power exhibits significant uncertainty, and the accuracy of its point forecasts (including interval prediction results) gradually improves over time. In view of this, we have developed a multi-time-scale market participation strategy for wind farm (equipped with energy storage), tailored to different markets and their respective clearing time windows.
 
-n the day-ahead stage, we formulated a day-ahead bidding strategy and determined the bidding power for the energy market.
+On the day-ahead stage, we formulated a day-ahead bidding strategy and determined the bidding power for the energy market.
 
 In the intraday stage, we first re-quantified the wind power uncertainty based on ultra-short-term wind power forecast data and adjusted the reserved power of the energy storage (which was determined by the interval prediction results in **Key Step 1**). Secondly, considering the requirement that the bidding power in the energy market cannot be changed after day-ahead market clearing, along with the updated ultra-short-term wind power forecast data, we adjusted the output power of the energy storage to meet the requirements. Finally, after completing the adjustments to the reserved power and output power, the energy storage had more available capacity, which we then utilized to participate in the frequency regulation market.
 
