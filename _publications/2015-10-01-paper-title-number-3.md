@@ -41,7 +41,7 @@ The prediction accuracy of the static Copula function is relatively low, but it 
 
 Then, in **Key Step 3**, we determine the reserved power of energy storage  based on the interval prediction results we obtained.
 
-**Key Step 2: Establish market bidding model for wind farm equipped with Storage**
+**Key Step 2: Establish market bidding model for wind farm equipped with energy storage**
 
 
 Referring to the PJM market rules in the United States, we developed a benefit and cost model for wind farm (equipped with energy storage). The specific functions are presented in Equations (1) to (6) in this paper. 
