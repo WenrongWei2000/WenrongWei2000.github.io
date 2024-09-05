@@ -11,7 +11,7 @@ redirect_from:
 Here is Wenrong Wei (魏文荣).
 
 I am currently pursuing a master’s degree with the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology, supervised by [Prof. Shihong Miao](http://faculty.hust.edu.cn/miaoshihong/zh_CN/index.htm).During my master's studies, I participated in two research projects and published two [papers](https://wenrongwei2000.github.io/publications).
-Here is my Resume: [CV_WenrongWei](../assets/CV0801.pdf)
+Here is my Resume: [CV_WenrongWei](../files/CV_WenrongWei.pdf)
 
 Now, I am looking for a PhD position in power system optimization. If you are interested in any aspect of me and my work, I would love to chat and collaborate, please email me at [here](mailto:weiwenrong@hust.edu.cn).
 
