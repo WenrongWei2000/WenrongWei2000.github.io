@@ -14,11 +14,15 @@ citation: 'Wenrong Wei, Shihong MIAO, et al. (2024). &quot;Optimal Distribution 
 **Block diagram of two-layer distribution modal**
 
 Upper layer: 
+
 ①Distribute commands among different generation clusters
+
 ②Propose a flexible allocation strategy designed to enhances the recovery speed of SOC
 
 Lower layer: 
+
 ①Distribute commands within the same generation clusters(such as energy storage plants cluster)
+
 ②Take into account the available capacity and economic efficiency of the energy storage plantsTake into account the available capacity and economic efficiency of the energy storage plants
 
 <div class='paper-box'>
@@ -36,19 +40,21 @@ The standard power of the energy storage system will be limited to prevent overu
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='../images/图片1.png' alt="sym" width="100%" style="display: block; margin: 0 auto;">
+    <img src='../images/图片1.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
     <p style="text-align: center;">curve of standard discharging power</p>
   </div>
 </div>
 <div class='paper-box-text' markdown="1">
 
 When the SOC is relatively low：
+
 ①If command is positive, the wind farms will undertake command to increase the proportion of wind power utilized.
+
 ②If the command is negative, the energy storage plants will undertake the command to charge in order to recover the SOC. Additionally, the wind farm output and energy storage charging power will be increased simultaneously.
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='../images/图片2.png' alt="sym" width="100%" style="display: block; margin: 0 auto;">
+    <img src='../images/图片2.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
     <p style="text-align: center;">key point of flexible allocation strategy</p>
   </div>
 </div>
