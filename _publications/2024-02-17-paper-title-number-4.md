@@ -54,7 +54,7 @@ When the SOC is relatively low：
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='../images/图片2.png' alt="sym" width="70%" style="display: block; margin: 0 auto;">
+    <img src='../images/图片2.png' alt="sym" width="85%" style="display: block; margin: 0 auto;">
     <p style="text-align: center;">key point of flexible allocation strategy</p>
   </div>
 </div>
